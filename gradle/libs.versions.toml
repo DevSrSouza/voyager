@@ -2,7 +2,7 @@
 plugin-android = "7.0.4"
 plugin-ktlint = "10.2.0"
 plugin-maven = "0.18.0"
-plugin-multiplatform-compose = "1.0.1-rc2"
+plugin-multiplatform-compose = "1.2.0-alpha01"
 
 coroutines = "1.6.0"
 kotlin = "1.6.10"
